@@ -16,6 +16,6 @@ while True:
         sleep(1)
         box.click()
     else:
-        break  # add
+        break
 driver.close()
 print('Completed')
